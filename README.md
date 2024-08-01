@@ -3,3 +3,6 @@ Program that generates a random number and asks the user to guess it. Provides f
 
 # TIC TAC TOE GAME
 Simple console-based Tic-Tac-Toe game that allows two players to play against each other.
+
+# SIMPLE CALCULATOR
+A calculator program that performs basic arithmetic operations such as addition, subtraction, multiplication and division. Allows the user to input two numbers and choose an operation to perform.
